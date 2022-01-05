@@ -4,11 +4,11 @@ body{
 .top-banner{
     
     margin-left: 3%%;
-    margin-top:6%;
+    /* margin-top:6%; */
     background-image: url(./header-bg.png);
     background-repeat: no-repeat;
-    background-size: 95%;
-    background-position: bottom; 
+     background-size: 95%; 
+    background-position: center; 
      
     
 }
@@ -20,7 +20,7 @@ body{
 
 .top-banner img{
     height: 400px;
-    padding-right: 100px;
+    padding-left: 150px;
 }
 .half-width{
     width: 40%;
@@ -60,4 +60,8 @@ section{
 }
 p{
     font-size: 15px;
+}
+.img-size img{
+    width: 70%;
+    padding: 40px;
 }
