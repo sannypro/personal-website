@@ -1,0 +1,44 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-banner{
+    
+    margin-left: 6%;
+    margin-top: 6%;
+    background-image: url(./header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 95%;
+     background-position: bottom; 
+    
+}
+#pink{ 
+    color: #E75480;
+    font-size: 40px;
+    
+}
+
+.top-banner img{
+    height: 400px;
+    padding-right: 100px;
+}
+.half-width{
+    width: 40%;
+    padding-right: 50px;
+    
+}
+.padding-left{
+    /* padding-right: 10%; */
+     margin-left: 12%
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#E75480,#EC4C79);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;}
+.background-image{
+    display: flex;
+}
+.padding-right{
+    padding-right: 200px;
+}
