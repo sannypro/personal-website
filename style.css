@@ -4,11 +4,11 @@ body{
 .top-banner{
     
     margin-left: 3%%;
-    margin-top: 6%;
+    margin-top:6%;
     background-image: url(./header-bg.png);
     background-repeat: no-repeat;
     background-size: 95%;
-     background-position: bottom; 
+    background-position: bottom; 
      
     
 }
@@ -28,7 +28,7 @@ body{
     
 }
 .padding-left{
-    /* padding-right: 10%; */
+     /* padding-right: 10%;  */
      margin-left: 12%
 }
 .link-button{
@@ -46,4 +46,18 @@ body{
 }
 .padding-right{
     padding-right: 200px;
+}
+.midlle{
+    background-image: url(./biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    /* background-position: center;  */
+
+}
+
+section{
+    margin-bottom: 100px;
+}
+p{
+    font-size: 15px;
 }
